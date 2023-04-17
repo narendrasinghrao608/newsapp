@@ -1,0 +1,7 @@
+mounting:Birth of your component
+update-growth of your component
+unmount-Deatj pf component
+class based componet rand in render() method
+componentdidmount() after render
+componetdidupdate() when update
+componnetwillunmount() before destroying component

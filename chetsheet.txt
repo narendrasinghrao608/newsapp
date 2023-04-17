@@ -8,4 +8,4 @@ git status # just to see
  $.ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 $.tail <path to id_rsa.pub> # add this key to your github account
 git remote add orign <ssh url.git>
-git push -u origin main
+git push -u origin main or git push origin master
